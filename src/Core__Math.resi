@@ -788,7 +788,7 @@ See [`Math.sign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refere
 
 ```rescript
 Math.sign(3.0) // 1.0
-Math.sign(-3.0) // 1.0
+Math.sign(-3.0) // -1.0
 Math.sign(0.0) // 0.0
 ```
 */
