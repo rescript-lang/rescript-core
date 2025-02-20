@@ -294,7 +294,7 @@ module Int: {
 
   /**
   ceil(v) returns the smallest `int` greater than or equal to the argument;
-  See [`Math.floor`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+  See [`Math.ceil`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
   on MDN.
 
   ## Examples
